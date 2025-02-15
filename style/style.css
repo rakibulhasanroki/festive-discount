@@ -56,7 +56,7 @@ header {
       rgba(7, 2, 17, 0.8) 0%,
       rgba(7, 2, 17, 0) 100%
     ),
-    url(../images/banner-image.png);
+    url(./images/banner-image.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1320px 600px;
@@ -150,7 +150,7 @@ header h2 {
       rgb(7, 2, 17),
       rgba(7, 2, 17, 0) 100%
     ),
-    url(../images/vector.png);
+    url(./images/vector.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1320px 600px;
